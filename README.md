@@ -38,6 +38,7 @@
 - [Grouping and Capturing](#grouping-and-capturing)
 - [Bracket Expressions](#bracket-expressions)
 - [Greedy and Lazy Match](#greedy-and-lazy-match)
+- [About Me](https://github.com/byronontheboard/regex-breakdown/blob/main/README.md#about-me)
 ----
 ## __<p style="color: #FFC0CB">REGEX Components:</p>__
 
