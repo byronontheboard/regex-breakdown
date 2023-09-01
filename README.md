@@ -21,6 +21,8 @@
 - [Grouping and Capturing](#grouping-and-capturing)
 - [Bracket Expressions](#bracket-expressions)
 - [Greedy and Lazy Match](#greedy-and-lazy-match)
+- [About Me](about-me)
+- [GitHub](github)
 
 ----
 ## __<p style="color: #FFC0CB">REGEX Components:</p>__
